@@ -6,7 +6,8 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("- - - - - - - - - - HACKER RANK CHALLENGES - - - - - - - - - - - ");
+            Console.WriteLine("Please select an option:");
         }
     }
 }
